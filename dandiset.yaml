@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.9/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -13,8 +14,8 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 449817449206
-  numberOfFiles: 527
+  numberOfBytes: 479064047970
+  numberOfFiles: 531
   numberOfSamples: 2
   numberOfSubjects: 13
   schemaKey: AssetsSummary
@@ -32,22 +33,31 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-03-13T13:09:33.535535+00:00'
-description: This derivative dataset contains Richardson-Lucy deconvloved and N4 intensity
-  inhomogeneity corrected 3D image stacks and the analysis derivatives of the corrected
-  image stacks from the CATNAP analysis pipeline, https://github.com/snehashis-roy/CATNIP.
+description: This derivative dataset was compiled from data from a study conducted
+  by the National Institute of Mental Health's Intramural Research Program from images
+  acquired from the Systems Neuroscience Imaging Resource and reformatted into BIDS
+  by the NIMH Data Science and Sharing Team. The derivative dataset contains Richardson-Lucy
+  deconvloved and N4 intensity inhomogeneity corrected 3D image stacks and the analysis
+  derivatives of the corrected image stacks from the CATNAP analysis pipeline, https://github.com/snehashis-roy/CATNIP.
   Data is from the publication "Constitutive and conditional deletion reveals distinct
   phenotypes driven by developmental versus neurotransmitter actions of the neuropeptide
   PACAP," https://doi.org/10.1111/jne.13286.
+ethicsApproval: []
 id: DANDI:001362/draft
 identifier: DANDI:001362
+keywords: []
 license:
 - spdx:CC0-1.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001362/versions/draft/assets/
 name: CATNIP Analysis of light sheet imaing of whole-brain c-Fos immunostaining in
   constitutive PACAP-knockout and control PACAP-flox/flox mice
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
+studyTarget: []
 url: https://dandiarchive.org/dandiset/001362/draft
 version: draft
+wasGeneratedBy: []
