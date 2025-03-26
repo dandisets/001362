@@ -1,0 +1,11 @@
+{
+	"participant_id": {
+		"Description" : "The identifier of the murine subject with genotype. Knock-out is inidated by ko. Flox/Flox indicated by flox."
+	},
+	"species": {
+		"Description" : "The species of the participant"
+	},
+	"strain": {
+		"Description" : "The strain of the participant"
+	}
+}

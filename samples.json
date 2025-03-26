@@ -1,0 +1,14 @@
+{
+	"sample_id" : {
+		"Description": "The left or right hemisphere of a participants brain"
+	},
+	"participant_id" : {
+		"Description": "The identifier of the murine subject with genotype. Knock-out is inidated by ko. Flox/Flox indicated by flox."
+	},
+	"sample_type" : {
+		"Description": "The type of sample"
+	},
+	"pathology" : {
+		"Description": "The genotype of the participant"
+	}
+}
