@@ -9,13 +9,10 @@ access:
   status: dandi:OpenAccess
 assetsSummary:
   approach: []
-  dataStandard:
-  - identifier: RRID:SCR_016124
-    name: Brain Imaging Data Structure (BIDS)
-    schemaKey: StandardsType
+  dataStandard: []
   measurementTechnique: []
-  numberOfBytes: 479064047970
-  numberOfFiles: 531
+  numberOfBytes: 479064046990
+  numberOfFiles: 530
   numberOfSamples: 2
   numberOfSubjects: 13
   schemaKey: AssetsSummary
