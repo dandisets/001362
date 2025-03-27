@@ -21,8 +21,8 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Lawrimore, Joshua (2025) CATNIP Analysis of light sheet imaging of whole-brain
-  c-Fos immunostaining in constitutive PACAP-knockout and control PACAP-flox/flox
+citation: Lawrimore, Joshua; Ted B. Usdin (2025) CATNIP Analysis of light sheet imaging
+  of whole-brain c-Fos immunostaining in constitutive PACAP-knockout and control PACAP-flox/flox
   mice (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001362/draft
 contributor:
 - affiliation: []
@@ -33,6 +33,18 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: 1ZICMH002963
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: true
+  name: Ted B. Usdin
+  roleName:
+  - dcite:Author
+  - dcite:FundingAcquisition
+  - dcite:Investigation
+  - dcite:Methodology
+  - dcite:Resources
+  - dcite:Software
+  schemaKey: Organization
 dateCreated: '2025-03-13T13:09:33.535535+00:00'
 description: This derivative dataset was compiled from data from a study conducted
   by the National Institute of Mental Health's Intramural Research Program from images
