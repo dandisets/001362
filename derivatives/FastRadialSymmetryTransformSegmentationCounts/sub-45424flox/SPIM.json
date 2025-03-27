@@ -1,0 +1,19 @@
+{
+    "label_id": {
+        "LongName": "Label Identifier",
+        "Description": "An integer label for each brain region"
+    },
+    "name": {
+        "Description": "The name of the brain region in the modified Allen Brain Atlas"
+    },
+    "acronym": {
+        "Description": "The acronym for the brain region in the modified Allen Brain Atlas"
+    },
+    "cell_count": {
+        "Description": "The number of cells in the brain region"
+    },
+    "label_volume_pixels": {
+        "Description": "The volume of the brain region in pixels",
+        "Units": "pixels"
+    }
+}

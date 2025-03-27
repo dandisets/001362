@@ -14,14 +14,14 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 479064048202
-  numberOfFiles: 531
+  numberOfBytes: 479077546681
+  numberOfFiles: 765
   numberOfSamples: 2
   numberOfSubjects: 13
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Lawrimore, Joshua (2025) CATNIP Analysis of light sheet imaing of whole-brain
+citation: Lawrimore, Joshua (2025) CATNIP Analysis of light sheet imaging of whole-brain
   c-Fos immunostaining in constitutive PACAP-knockout and control PACAP-flox/flox
   mice (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001362/draft
 contributor:
@@ -46,12 +46,21 @@ description: This derivative dataset was compiled from data from a study conduct
 ethicsApproval: []
 id: DANDI:001362/draft
 identifier: DANDI:001362
-keywords: []
+keywords:
+- light sheet
+- microscopy
+- iDISCO
+- fluorescence
+- c-Fos
+- Immunostaining
+- PACAP
+- Mouse
+- Mice
 license:
 - spdx:CC0-1.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001362/versions/draft/assets/
-name: CATNIP Analysis of light sheet imaing of whole-brain c-Fos immunostaining in
+name: CATNIP Analysis of light sheet imaging of whole-brain c-Fos immunostaining in
   constitutive PACAP-knockout and control PACAP-flox/flox mice
 protocol: []
 relatedResource: []
