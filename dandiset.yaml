@@ -21,56 +21,12 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Lawrimore, Joshua; Eiden, Lee; Usdin, Ted; Roy, Snehasish; Bakalar, Dana
-  (2026) CATNIP Analysis of light sheet imaging of whole-brain c-Fos immunostaining
+citation: Bakalar, Dana; Gavrilova, Oksana; Jiang, Sunny Z; Zhang, Hai-ying; Roy,
+  Snehasish; Avram, Sarah K. Williams; Liu, Naili; Wisser, Stephen C; Usdin, Ted;
+  Eiden, Lee (2026) CATNIP Analysis of light sheet imaging of whole-brain c-Fos immunostaining
   in constitutive PACAP-knockout and control PACAP-flox/flox mice (Version draft)
   [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001362/draft
 contributor:
-- affiliation: []
-  email: josh.lawrimore@gmail.com
-  identifier: 0000-0003-2301-9073
-  includeInCitation: true
-  name: Lawrimore, Joshua
-  roleName:
-  - dcite:ContactPerson
-  schemaKey: Person
-- awardNumber: 1ZIAMH002386
-  identifier: 0000-0001-7524-944X
-  includeInCitation: true
-  name: Eiden, Lee
-  roleName:
-  - dcite:Author
-  - dcite:FundingAcquisition
-  - dcite:Resources
-  - dcite:Supervision
-  schemaKey: Person
-- awardNumber: 1ZICMH002963
-  includeInCitation: true
-  name: Usdin, Ted
-  roleName:
-  - dcite:FundingAcquisition
-  - dcite:Investigation
-  - dcite:Methodology
-  - dcite:Resources
-  - dcite:Software
-  schemaKey: Person
-- awardNumber: ZICMH002963
-  identifier: https://ror.org/04xeg9z08
-  includeInCitation: false
-  name: National Institute of Mental Health
-  schemaKey: Organization
-- awardNumber: ZIAMH002386
-  identifier: https://ror.org/04xeg9z08
-  includeInCitation: false
-  name: National Institute of Mental Health
-  schemaKey: Organization
-- email: snehashis.roy@nih.gov
-  includeInCitation: true
-  name: Roy, Snehasish
-  roleName:
-  - dcite:Author
-  - dcite:Software
-  schemaKey: Person
 - affiliation: []
   email: dana.bakalar@nih.gov
   identifier: 0000-0001-8257-4427
@@ -84,6 +40,101 @@ contributor:
   - dcite:Investigation
   - dcite:Software
   - dcite:Visualization
+  schemaKey: Person
+- email: oksanag@bdg10.niddk.nih.gov
+  includeInCitation: true
+  name: Gavrilova, Oksana
+  roleName:
+  - dcite:Investigation
+  - dcite:Researcher
+  - dcite:Resources
+  - dcite:Methodology
+  - dcite:Author
+  schemaKey: Person
+- email: zhihong.jiang@nih.gov
+  includeInCitation: true
+  name: Jiang, Sunny Z
+  roleName:
+  - dcite:Author
+  - dcite:Investigation
+  schemaKey: Person
+- email: haiying.zhang@nih.gov
+  includeInCitation: true
+  name: Zhang, Hai-ying
+  roleName:
+  - dcite:Author
+  - dcite:Investigation
+  schemaKey: Person
+- email: snehashis.roy@nih.gov
+  includeInCitation: true
+  name: Roy, Snehasish
+  roleName:
+  - dcite:Author
+  - dcite:Software
+  schemaKey: Person
+- email: sarah.williams@nih.gov
+  identifier: 0000-0002-9898-5420
+  includeInCitation: true
+  name: Avram, Sarah K. Williams
+  roleName:
+  - dcite:Author
+  - dcite:Investigation
+  - dcite:Methodology
+  - dcite:Resources
+  schemaKey: Person
+- email: naili.liu@nih.gov
+  includeInCitation: true
+  name: Liu, Naili
+  roleName:
+  - dcite:Author
+  - dcite:Investigation
+  schemaKey: Person
+- includeInCitation: true
+  name: Wisser, Stephen C
+  roleName:
+  - dcite:Author
+  - dcite:Software
+  schemaKey: Person
+- awardNumber: 1ZICMH002963
+  email: usdint@mail.nih.gov
+  includeInCitation: true
+  name: Usdin, Ted
+  roleName:
+  - dcite:FundingAcquisition
+  - dcite:Investigation
+  - dcite:Methodology
+  - dcite:Resources
+  - dcite:Software
+  schemaKey: Person
+- awardNumber: 1ZIAMH002386
+  email: eidenl@mail.nih.gov
+  identifier: 0000-0001-7524-944X
+  includeInCitation: true
+  name: Eiden, Lee
+  roleName:
+  - dcite:Author
+  - dcite:FundingAcquisition
+  - dcite:Resources
+  - dcite:Supervision
+  - dcite:ContactPerson
+  schemaKey: Person
+- awardNumber: ZICMH002963
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: false
+  name: National Institute of Mental Health
+  schemaKey: Organization
+- awardNumber: ZIAMH002386
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: false
+  name: National Institute of Mental Health
+  schemaKey: Organization
+- affiliation: []
+  email: josh.lawrimore@gmail.com
+  identifier: 0000-0003-2301-9073
+  includeInCitation: false
+  name: Lawrimore, Joshua
+  roleName:
+  - dcite:DataCurator
   schemaKey: Person
 dateCreated: '2025-03-13T13:09:33.535535+00:00'
 description: This derivative dataset was compiled from data from a study conducted
