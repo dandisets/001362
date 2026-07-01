@@ -24,8 +24,8 @@ assetsSummary:
 citation: Bakalar, Dana; Gavrilova, Oksana; Jiang, Sunny Z; Zhang, Hai-ying; Roy,
   Snehasish; Avram, Sarah K. Williams; Liu, Naili; Wisser, Stephen C; Usdin, Ted;
   Eiden, Lee (2026) CATNIP Analysis of light sheet imaging of whole-brain c-Fos immunostaining
-  in constitutive PACAP-knockout and control PACAP-flox/flox mice (Version draft)
-  [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001362/draft
+  in constitutive PACAP-knockout and control PACAP-flox/flox mice (Version 0.260701.1900)
+  [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001362/0.260701.1900
 contributor:
 - affiliation: []
   email: dana.bakalar@nih.gov
@@ -137,6 +137,7 @@ contributor:
   - dcite:DataCurator
   schemaKey: Person
 dateCreated: '2025-03-13T13:09:33.535535+00:00'
+datePublished: '2026-07-01T19:00:26.768908+00:00'
 description: This derivative dataset was compiled from data from a study conducted
   by the National Institute of Mental Health's Intramural Research Program from images
   acquired from the Systems Neuroscience Imaging Resource and reformatted into BIDS
@@ -146,8 +147,9 @@ description: This derivative dataset was compiled from data from a study conduct
   Data is from the publication "Constitutive and conditional deletion reveals distinct
   phenotypes driven by developmental versus neurotransmitter actions of the neuropeptide
   PACAP," https://doi.org/10.1111/jne.13286.
+doi: 10.48324/dandi.001362/0.260701.1900
 ethicsApproval: []
-id: DANDI:001362/draft
+id: DANDI:001362/0.260701.1900
 identifier: DANDI:001362
 keywords:
 - light sheet
@@ -162,13 +164,25 @@ keywords:
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001362/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001362/0.260701.1900/assets.yaml
 name: CATNIP Analysis of light sheet imaging of whole-brain c-Fos immunostaining in
   constitutive PACAP-knockout and control PACAP-flox/flox mice
+publishedBy:
+  endDate: '2026-07-01T19:00:26.768908+00:00'
+  id: urn:uuid:07cea685-b850-4861-a1ec-d0817a4cde85
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-07-01T19:00:26.768908+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:f8ecbe15-51e8-470b-8067-e9b9899c430b
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-url: https://dandiarchive.org/dandiset/001362/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001362/0.260701.1900
+version: 0.260701.1900
 wasGeneratedBy: []
